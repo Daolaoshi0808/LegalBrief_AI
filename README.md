@@ -40,8 +40,8 @@ Legal Case Document (Raw Text)
     ┌────────────────────────────┐
     │   Multi-Task Prediction    │
     ├────────────────────────────┤
-    │  1. Class Action Detection │ → Logistic Regression (91.7% acc)
-    │  2. Case Type Classification│ → Logistic Regression (89.3% acc)
+    │  1. Class Action Detection │ → Logistic Regression 
+    │  2. Case Type Classification│ → Logistic Regression
     │  3. Abstractive Summarization│ → DistilBART Transformer
     └────────────────────────────┘
          ↓
